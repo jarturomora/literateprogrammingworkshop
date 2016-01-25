@@ -378,4 +378,4 @@ def main():
     return _install(archive, _build_install_args(options))
 
 if __name__ == '__main__':
-    sys.exit(main()
+    sys.exit(main())
